@@ -1,1 +1,1 @@
-Testing Cloudways automation!
+Testing Cloudways automation! - Secure deployment test successful!
